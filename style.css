@@ -149,3 +149,7 @@ body{background-color: #FFFDD0;}
     font-family: sans-serif
     line-height: 150%
     font-size: 150%}
+
+    h2{
+      text-decoration: underline
+    }
